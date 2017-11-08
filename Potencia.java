@@ -4,8 +4,7 @@ public class main {
 
   public static void main(String[] args) {
 
-    // atual
-    int base = 1;       // anterior
+    int base = 1;       
     int expoente = 0;
 
 
